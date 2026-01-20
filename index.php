@@ -65,5 +65,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             echo "<p><b>".$codigo.":</b> ".htmlspecialchars($mensaje)."</p>";
         ?>
     </div>
+    //Cambios
 </body>
 </html> 
